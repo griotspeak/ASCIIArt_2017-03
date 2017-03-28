@@ -11,7 +11,7 @@ print("Hello")
 sleep(2)
 clearScreen()
 
-print("This is a double helix.")
+print("C'est ne pas une Double Helix.")
 
 sleep(2)
 clearScreen()
@@ -329,11 +329,6 @@ print("    \\           /")
 print("     \\........./")
 
 sleep(1)
-clearScreen()
-
-print("And now the double helix has a clone.")
-
-sleep(2)
 clearScreen()
 
 print("       \\...../                \\...../")
